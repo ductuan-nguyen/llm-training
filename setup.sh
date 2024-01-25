@@ -1,0 +1,1 @@
+pip install flash-attn==2.4.2
